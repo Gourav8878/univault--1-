@@ -1,0 +1,6 @@
+{
+  "name": "UniVault",
+  "description": "Trust Nothing. Verify Every Access. — Zero-Trust Campus Document Exchange (PS 07).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
